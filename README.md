@@ -1,8 +1,8 @@
 # 🧩 JoelKoomson
 
-**`Digital Nomad (Devloper/Scholar/Ambassador)`**  
+**`Digital Nomad (Devloper/Scholar/)`**  
 
-I'm an aspiring software developer and Ambassador at Georgia State University; establishing my digital footstep every step every day. All influential men and women are refined and developed, and being in a competitive field only makes me eager to be grander and become an expert craftsman. I have a never-ending passion for finance and learning how to build tools to impact the world markets. My educational growth and professional growth are at the core of my character, and fuel my passion to one day attain a coveted PhD. ---->🎓
+I'm an aspiring software developer and student at Georgia State University; establishing my digital footstep every step every day. All influential men and women are refined and developed, and being in a competitive field only makes me eager to perfect my craft. I have a never-ending passion for learning and I hope build tools to impact the world markets. My educational growth and professional growth are at the core of my character, and fuel my passion to one day attain a coveted PhD. ---->🎓
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
