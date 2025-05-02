@@ -1,6 +1,6 @@
 # 🧩 JoelKoomson
 
-**`Digital Nomad (Devloper/Scholar/)`**  
+**`Digital Nomad (Devloper/Scholar/Visionary)`**  
 
 I'm an aspiring software developer and student at Georgia State University; establishing my digital footstep every step every day. All influential men and women are refined and developed, and being in a competitive field only makes me eager to perfect my craft. I have a never-ending passion for learning and I hope build tools to impact the world markets. My educational growth and professional growth are at the core of my character, and fuel my passion to one day attain a coveted PhD. ---->🎓
 
